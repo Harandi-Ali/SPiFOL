@@ -8,10 +8,8 @@ what does that mean:
 
 
 For more information please check the following:
-Harandi, Ali, et al. "
-A Spectral-based Physics-informed Finite Operator Learning for Prediction of
- Mechanical Behavior of Microstructures.
-" arXiv preprint arXiv:2410.19027 (2024).
+Harandi, Ali, et al. "A Spectral-based Physics-informed Finite Operator Learning for Prediction of Mechanical Behavior of Microstructures." arXiv preprint arXiv:2410.19027 (2024).
+
 
 Citation: 
 @article{harandi2024spectral,
