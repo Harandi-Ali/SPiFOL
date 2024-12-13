@@ -1,6 +1,8 @@
 # SPiFOL
 Spectral Physics-informed Finite Operator Learning
 We employed operator learning and combined it with based approaches. 
+
+
 what does that mean:
 1) Instead of performing AD or trying to build equations by means of coordinates as input
    we use the Lippmann-Schwinger operator to build physical losses
